@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3012-49F3
+
+ Directory of C:\Nikhil\GitProject
+
+13/09/2021  21:42    <DIR>          .
+13/09/2021  21:42    <DIR>          ..
+13/09/2021  21:42                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)     492.019.712 bytes free
